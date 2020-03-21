@@ -15,3 +15,5 @@ Main Release 2 Paranormal:
 * Spirit Quartz - A gem that can put the gem in spectator mode, or ghost mode.
 * Painite - A gem that hypnotizes rebels into serving you again. If she rebels, she can hypnotize the player and remove random items from the player's inventory.
 * Glass - A gem that summons duplicates of itself. Its gem lies inside of its body.
+* Morganite - A pink gem that can levitate the player.
+* Pyrrhotite - A gem that can attract items to itself within a certain radius.
