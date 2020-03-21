@@ -1,0 +1,406 @@
+[01:31:39] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/logda/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[01:31:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[01:31:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[01:31:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:31:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[01:31:40] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[01:31:40] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_241, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_241
+[01:31:41] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[01:31:41] [main/ERROR] [FML]: Full: C:\Users\logda\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[01:31:41] [main/ERROR] [FML]: Trimmed: c:/users/logda/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[01:31:42] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[01:31:42] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[01:31:53] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[01:31:53] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[01:31:53] [main/INFO] [FML]: Searching C:\Users\logda\Desktop\Minecraft Modding\Cirque\run\.\mods for mods
+[01:31:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:31:53] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[01:31:53] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[01:31:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:31:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[01:31:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:32:09] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[01:32:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:32:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:32:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[01:32:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:32:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:32:12] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[01:32:20] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player345
+[01:32:39] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[01:32:39] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[01:32:51] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 91111976 bytes (86 MB) / 270008320 bytes (257 MB) up to 915406848 bytes (873 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 26.20.100.7262' Renderer: 'Intel(R) HD Graphics 505'
+[01:32:52] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[01:32:52] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:32:52] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:32:53] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:32:56] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 259530400 nanos
+[01:32:57] [Client thread/INFO] [FML]: Searching C:\Users\logda\Desktop\Minecraft Modding\Cirque\run\.\mods for mods
+[01:33:00] [Client thread/INFO] [FML]: Mod cirque is missing the required element 'name'. Substituting cirque
+[01:33:30] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[01:33:36] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, cirque, kagic] at CLIENT
+[01:33:36] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, cirque, kagic] at SERVER
+[01:33:46] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:cirque, FMLFileResourcePack:KAGIC
+[01:33:51] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:33:51] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[01:33:51] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:33:51] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:33:52] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:33:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:33:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:33:59] [Client thread/INFO] [kagic]: Fluid name is rose_tears
+[01:33:59] [Client thread/INFO] [FML]: Applying holder lookups
+[01:33:59] [Client thread/INFO] [FML]: Holder lookups applied
+[01:33:59] [Client thread/INFO] [FML]: Applying holder lookups
+[01:33:59] [Client thread/INFO] [FML]: Holder lookups applied
+[01:33:59] [Client thread/INFO] [kagic]: Setting biome weights: Kindergarten = 1, Floating Peaks = 1
+[01:33:59] [Client thread/INFO] [FML]: Applying holder lookups
+[01:33:59] [Client thread/INFO] [FML]: Holder lookups applied
+[01:33:59] [Client thread/INFO] [FML]: Applying holder lookups
+[01:33:59] [Client thread/INFO] [FML]: Holder lookups applied
+[01:33:59] [Client thread/INFO] [FML]: Injecting itemstacks
+[01:33:59] [Client thread/INFO] [FML]: Itemstack injection complete
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundHandler]: File kagic:sounds/records/love_like_you.ogg does not exist, cannot add it to event kagic:records.love_like_you
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.steven.hello
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.steven.living
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.steven.hurt
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.steven.protect
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.steven.death
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.steven.sneeze
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.connie.hello
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.connie.living
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.connie.hurt
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.connie.protect
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:entities.connie.death
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_1
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_2
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_3
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_4
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_5
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_6
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_7
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_8
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_9
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_10
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_11
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_12
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_13
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_14
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_15
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_16
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_17
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_18
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_19
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_20
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_21
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_22
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_23
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_24
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_25
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_26
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_27
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_28
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_29
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_30
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_31
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_32
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_33
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_34
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_35
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_36
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_37
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_38
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_39
+[01:34:24] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: kagic:songs.jam_buds_40
+[01:34:25] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[01:34:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[01:34:25] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:34:27] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[01:34:27] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[01:35:03] [Client thread/INFO] [FML]: Max texture size: 8192
+[01:35:05] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
+[01:35:10] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #stem in kagic:models/block/giant_strawberry_stem_fruit
+[01:35:11] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #stem in kagic:models/block/giant_strawberry_stem_fruit
+[01:35:12] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #stem in kagic:models/block/giant_strawberry_stem_fruit
+[01:35:12] [Client thread/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #stem in kagic:models/block/giant_strawberry_stem_fruit
+[01:35:13] [Client thread/ERROR] [FML]: Exception loading model for variant kagic:giant_strawberry_stem#age=5,facing=north for blockstate "kagic:giant_strawberry_stem[age=5,facing=north]"
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model kagic:giant_strawberry_stem#age=5,facing=north with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerVariant(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 21 more
+[01:35:13] [Client thread/ERROR] [FML]: Exception loading model for variant kagic:giant_strawberry_stem#age=6,facing=south for blockstate "kagic:giant_strawberry_stem[age=6,facing=south]"
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model kagic:giant_strawberry_stem#age=6,facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerVariant(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 21 more
+[01:35:13] [Client thread/ERROR] [FML]: Exception loading model for variant kagic:giant_strawberry_stem#age=4,facing=north for blockstate "kagic:giant_strawberry_stem[age=4,facing=north]"
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model kagic:giant_strawberry_stem#age=4,facing=north with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerVariant(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 21 more
+[01:35:13] [Client thread/ERROR] [FML]: Exception loading model for variant kagic:giant_strawberry_stem#age=1,facing=east for blockstate "kagic:giant_strawberry_stem[age=1,facing=east]"
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model kagic:giant_strawberry_stem#age=1,facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerVariant(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:560) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 21 more
+[01:35:13] [Client thread/FATAL] [FML]: Suppressed additional 23 model loading errors for domain kagic
+[01:35:17] [Client thread/INFO] [FML]: Applying holder lookups
+[01:35:17] [Client thread/INFO] [FML]: Holder lookups applied
+[01:35:23] [Client thread/INFO] [FML]: Injecting itemstacks
+[01:35:23] [Client thread/INFO] [FML]: Itemstack injection complete
+[01:35:23] [Client thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mod.akrivus.kagic.entity.gem.EntityAmethyst from class mod.akrivus.kagic.entity.gem.EntityTopaz
+[01:35:26] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[01:35:26] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[01:35:27] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[01:35:31] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[01:35:37] [Client thread/INFO] [net.minecraft.world.storage.SaveFormatOld]: Deleting level New World
+[01:35:37] [Client thread/INFO] [net.minecraft.world.storage.SaveFormatOld]: Attempt 1...
+[01:35:44] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[01:35:44] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[01:35:44] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:35:45] [Server thread/INFO] [FML]: Applying holder lookups
+[01:35:45] [Server thread/INFO] [FML]: Holder lookups applied
+[01:35:45] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@3551771e)
+[01:35:48] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[01:35:50] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@3551771e)
+[01:35:50] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@3551771e)
+[01:35:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:35:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[01:35:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[01:35:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
+[01:35:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[01:35:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[01:35:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
+[01:36:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[01:36:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[01:36:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[01:36:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[01:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
+[01:36:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
+[01:36:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[01:36:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[01:36:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 29%
+[01:36:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[01:36:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 36%
+[01:36:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[01:36:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
+[01:36:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 43%
+[01:36:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 46%
+[01:36:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
+[01:36:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[01:36:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 54%
+[01:36:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 56%
+[01:36:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
+[01:36:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
+[01:36:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 62%
+[01:36:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[01:36:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
+[01:36:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 71%
+[01:36:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[01:36:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 75%
+[01:36:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[01:36:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[01:36:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 81%
+[01:36:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[01:36:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 84%
+[01:36:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 87%
+[01:36:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 90%
+[01:36:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[01:36:45] [Server thread/WARN] [FML]: KAGIC loaded a new chunk [1, 18] in dimension 0 (overworld) while populating chunk [1, 16], causing cascading worldgen lag.
+[01:36:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:36:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 96%
+[01:36:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
+[01:36:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:36:48] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:36:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[01:36:53] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[01:36:53] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[01:36:53] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,cirque@@version,kagic@X11p13,mcp@9.42
+[01:36:53] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[01:36:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:36:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player345[local:E:f5a8f070] logged in with entity id 722 at (-138.5, 68.0, 128.5)
+[01:36:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player345 joined the game
+[01:36:54] [Server thread/INFO] [STDOUT]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:41]: Failed to check for updates, is the internet out?
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://cdn.rawgit.com/gryttr/KAGIC/1.12/updates.json
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at mod.akrivus.kagic.linguistics.OnlineHelper.getOnlineString(OnlineHelper.java:12)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at mod.akrivus.kagic.init.ModMetrics.checkForUpdates(ModMetrics.java:35)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at mod.akrivus.kagic.init.ModEvents.onPlayerLoggedIn(ModEvents.java:72)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_30_ModEvents_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:575)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:229)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:258)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:72)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.update(NetworkDispatcher.java:208)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:307)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.network.NetworkSystem.networkTick(NetworkSystem.java:197)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:865)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592)
+[01:36:54] [Server thread/INFO] [STDERR]: [mod.akrivus.kagic.init.ModMetrics:checkForUpdates:42]: 	at java.lang.Thread.run(Unknown Source)
+[01:36:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[01:36:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[01:36:57] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@31668158[id=f8ecce46-2a8b-3dd7-b17c-715cc94801bb,name=Player345,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3182) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_241]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+[01:36:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] KAGIC X11p13 - [Discord] | [Wiki]
+[01:37:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 16410ms behind, skipping 328 tick(s)
+[01:37:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2611ms behind, skipping 52 tick(s)
+[01:37:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[01:37:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[01:38:54] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] entity.covellite.name was poofed
+[01:39:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2219ms behind, skipping 44 tick(s)
+[01:39:09] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[01:39:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[01:39:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:39:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:39:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player345 lost connection: Disconnected
+[01:39:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player345 left the game
+[01:39:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[01:39:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:39:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[01:39:11] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:39:12] [Server thread/INFO] [FML]: Applying holder lookups
+[01:39:12] [Server thread/INFO] [FML]: Holder lookups applied
+[01:39:15] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[01:39:15] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[01:39:15] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

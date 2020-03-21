@@ -1,0 +1,10 @@
+cirque.config.title = Cirque Des Domestiques Configs
+
+entity.kagic.covellite.name=Covellite
+entity.kagic.covellite.name.plural=Covellites
+
+entity.covellite.name=Covellite
+entity.covellite.name.plural=Covellites
+
+item.covellite_gem.name=Covellite Gem
+item.cracked_covellite_gem.name=Cracked Covellite Gem
