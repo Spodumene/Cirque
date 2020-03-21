@@ -6,7 +6,7 @@ What is Cirque? Cirque is a new KAGIC Addon that adds new gems meant to help you
 
 ## Plans
 Main Release 1 Freak Show and Circus:
-* Gadolinite - An entertainer gem that plays music and displays holograms at night
+* Gadolinite - An entertainer gem that plays homeworld music. Her gem glows at night
 * Labradorite - A gem that acts as a great companion.
 * Tugtupite - A gem known as Cirque's "bearded lady". She has abnormal features including two mouths. Seeing her amuses the diamonds because she isn't defective, and that this is her normal form.
 * Indicolite - A small gem that can jump very high. She acts like an acrobat.
