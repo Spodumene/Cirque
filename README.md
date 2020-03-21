@@ -5,8 +5,7 @@ What is Cirque? Cirque is a new KAGIC Addon that adds new gems meant to help you
 Main Release 1 Freak Show and Circus:
 * Covellite - The first circus themed gem! She will be found in circus tents (an unimplemented feature). She can easily and swiftly attack entities. She acts as the leader of the entertainment gems!
 * Gadolinite - An entertainer gem that plays music and displays holograms at night
-* Labradorite - A gem that acts as a great companion. She will be the first corruptable gem.
-* Corrupted Labradorite - A corrupted gem that is a giant dog! She is the first non-hostile corrupted gem, as she will be tameable due to her memories of loyalty still remaining.
+* Labradorite - A gem that acts as a great companion.
 * Tugtupite - A gem known as Cirque's "bearded lady". She has abnormal features including two mouths. Seeing her amuses the diamonds because she isn't defective, and that this is her normal form.
 * Indicolite - A small gem that can jump very high. She acts like an acrobat.
 * Crystal - A beautiful gem that cannot speak or make noise. 
