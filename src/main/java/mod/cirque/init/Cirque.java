@@ -44,7 +44,7 @@ public class Cirque {
 		}
 		@SubscribeEvent
 		public static void registerSounds(RegistryEvent.Register<SoundEvent> event) {
-			//CirqueSounds.register(event);
+			CirqueSounds.register(event);
 		}
 	}
 }

@@ -3,8 +3,26 @@ cirque.config.title = Cirque Des Domestiques Configs
 entity.kagic.covellite.name=Covellite
 entity.kagic.covellite.name.plural=Covellites
 
+entity.kagic.gadolinite.name=Gadolinite
+entity.kagic.gadolinite.name.plural=Gadolinites
+
+entity.kagic.indicolite.name=Indicolite
+entity.kagic.indicolite.name.plural=Indicolites
+
 entity.covellite.name=Covellite
 entity.covellite.name.plural=Covellites
 
+entity.gadolinite.name=Gadolinite
+entity.gadolinite.name.plural=Gadolinites
+
+entity.indicolite.name=Indicolite
+entity.indicolite.name.plural=Indicolites
+
 item.covellite_gem.name=Covellite Gem
 item.cracked_covellite_gem.name=Cracked Covellite Gem
+
+item.gadolinite_gem.name=Gadolinite Gem
+item.cracked_gadolinite_gem.name=Cracked Gadolinite Gem
+
+item.indicolite_gem.name=Indicolite Gem
+item.cracked_indicolite_gem.name=Cracked Indicolite Gem

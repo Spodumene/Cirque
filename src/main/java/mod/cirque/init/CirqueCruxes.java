@@ -14,6 +14,12 @@ public class CirqueCruxes {
                 EntityCovellite.COVELLITE_YIELDS.put(ModBlocks.PINK_SANDSTONE.getDefaultState(), 3.99);
                 EntityCovellite.COVELLITE_YIELDS.put(Blocks.DIAMOND_BLOCK.getDefaultState(), 10.99);
                 ModEntities.registerWithOreDictionary(EntityCovellite.COVELLITE_YIELDS, "Covellite");
+                
+                EntityGadolinite.GADOLINITE_YIELDS.put(Blocks.GRAVEL.getDefaultState(), 10.99);
+                ModEntities.registerWithOreDictionary(EntityGadolinite.GADOLINITE_YIELDS, "Gadolinite");
+                
+                EntityIndicolite.INDICOLITE_YIELDS.put(Blocks.STONE.getDefaultState(), 10.99);
+                ModEntities.registerWithOreDictionary(EntityIndicolite.INDICOLITE_YIELDS, "Indicolite");
 
 
             }

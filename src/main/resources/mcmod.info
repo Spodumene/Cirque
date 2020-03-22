@@ -1,16 +1,18 @@
 [
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+	{
+  "modid": "cirque",
+  "name": "Cirque",
+  "description": "What is Cirque? Cirque is a new KAGIC Addon that adds new gems meant to help you do things but some of them will entertain you!",
+  "version": "The Circus Update",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Heshere, SQUINEL"],
+  "credits": "Akrivus, Heimr, Hekapoo, Other KAGIC Devs, SQUINEL for item textures and gem concepts.",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
-}
+  "dependencies": [
+	"kagic"
+		]
+	}
 ]

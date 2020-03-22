@@ -3,6 +3,8 @@ package mod.cirque.init;
 import mod.akrivus.kagic.entity.EntityGem;
 import mod.akrivus.kagic.init.ModEntities;
 import mod.cirque.entity.gem.EntityCovellite;
+import mod.cirque.entity.gem.EntityGadolinite;
+import mod.cirque.entity.gem.EntityIndicolite;
 import net.minecraft.client.renderer.entity.Render;
 import net.minecraft.entity.Entity;
 import net.minecraft.util.ResourceLocation;
@@ -15,6 +17,8 @@ public class CirqueEntities {
 	private static int currentID = 0;
 	public static void register() {
 		ModEntities.registerExternalGem("cirque", "covellite", EntityCovellite.class, "mod/cirque/client/render/RenderCovellite", 0xECF404, 0xEBFD64, false);
+		ModEntities.registerExternalGem("cirque", "gadolinite", EntityGadolinite.class, "mod/cirque/client/render/RenderGadolinite", 0xECF404, 0xEBFD64, false);
+		ModEntities.registerExternalGem("cirque", "indicolite", EntityIndicolite.class, "mod/cirque/client/render/RenderIndicolite", 0xECF404, 0xEBFD64, false);
 	}
 	@SuppressWarnings({ "deprecation", "unchecked" })
 	public static <T extends Entity> void registerMob(String name, Class<T> entity, int back, int fore) {
