@@ -10,6 +10,7 @@ What is Cirque? Cirque is a new KAGIC Addon that adds new gems meant to help you
 Main Release 1 Freak Show and Circus:
 * Tugtupite - A gem known as Cirque's "bearded lady". She has abnormal features including two mouths. Seeing her amuses the diamonds because she isn't defective, and that this is her normal form.
 * Moonstone - A beautiful gem that cannot speak or make noise. 
+* Apatite - A gem that can eat cracked gems
 
 Main Release 2 Paranormal:
 * Spirit Quartz - A gem that can put the gem in spectator mode, or ghost mode.
